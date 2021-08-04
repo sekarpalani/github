@@ -1,0 +1,19 @@
+td
+{
+  height: 120px;
+  width: 120px;
+}
+#hp
+{
+  border-left: green solid 5px;
+  border-right: green solid 5px;
+}
+.leno
+{
+  border-top: black solid 10px;
+  border-bottom: black solid 10px;
+}
+td:hover
+{
+  border:3px dotted;
+}
