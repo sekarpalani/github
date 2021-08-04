@@ -1,0 +1,37 @@
+#good
+{
+
+  padding: 10px 20px 30px 40px;
+  text-align: center;
+  background-color: yellow;
+  border: dotted;
+}
+.hello
+{
+  text-align: center;
+  background-color: brown;
+  border: solid;
+  padding: 20px 10px 20px 30px;
+}
+#heading
+{
+  border-style: ridge;
+  background-color: green;
+  text-align: left;
+}
+body
+{
+  padding: 10px 20px 30px 40px;
+  background-color: rgb(0,0,0);
+  margin: 10px;
+}
+h2
+{
+  background-color: green;
+  font-style: ariel black;
+}
+label
+{
+  color: blue;
+  text-align: center;
+}
