@@ -1,0 +1,24 @@
+img
+{
+  height:300px;
+  width:30%;
+  margin:0.5%;
+  border: 5px solid red;
+  padding: 2px;
+  border-style: dotted;
+
+}
+p
+{
+  font-size: 25px;
+  font-family: times new roman;
+  font-weight: bolder;
+  text-align:center;
+  color: red;
+}
+h2
+{
+  text-align: center;
+  text-decoration: underline;
+  border-bottom: 3px dotted yellow;
+}
